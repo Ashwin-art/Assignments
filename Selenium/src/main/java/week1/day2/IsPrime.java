@@ -39,7 +39,7 @@ public class IsPrime {
 		
 		IsPrime isPrime = new IsPrime();
 		
-		isPrime.primeNumberChecker(90);
+		isPrime.primeNumberChecker(60);
 		
 
 	}
